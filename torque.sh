@@ -4,6 +4,7 @@
 #PBS -N ejercicio29
 
 module load anaconda/python3
-cd /hpcfs/home/fisi4028/jc.giraldo10/juanGiraldo_Ejercicio29/
+cd /hpcfs/home/fisi4028/jc.giraldo10/juanGiraldo_Ejercicio30/
 make clean
+make walks
 make adveccion
